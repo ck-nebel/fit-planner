@@ -65,7 +65,9 @@ Com tudo configurado, abra o seu navegador e acesse:
 
 Crie a sua conta na tela de login e comece a utilizar o sistema!
 
-### 📁 Estrutura do 
+### 📁 Estrutura do Projeto
+
+```
 
 fit-planner/
 │
@@ -82,6 +84,8 @@ fit-planner/
 ├── index.html            # Interface unificada (Frontend)
 ├── database.sql          # Script de criação do banco de dados (DDL)
 └── README.md             # Documentação do projeto
+
+```
 
 ### 👨‍💻 Desenvolvedor
 Erick Pereira Camargo Estudante de Análise e Desenvolvimento de Sistemas
