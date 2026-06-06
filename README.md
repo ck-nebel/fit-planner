@@ -57,6 +57,7 @@ Caso o seu MySQL tenha uma senha diferente, abra o arquivo `config/database.php`
 ```php
 define('DB_USER', 'root');       // Seu usuário MySQL
 define('DB_PASS', '');           // Sua senha MySQL (deixe vazio se for padrão)
+```
 
 ### Passo 6: Acessando o Sistema
 Com tudo configurado, abra o seu navegador e acesse:
